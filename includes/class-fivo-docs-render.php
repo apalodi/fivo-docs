@@ -145,6 +145,8 @@ class Fivo_Docs_Render {
             }
         }
 
+        $hierarchy = array();
+
         foreach ( $terms as $id => $term ) {
             $hierarchy[$id] = get_term_children( $id, $taxonomy );
         }
