@@ -4,7 +4,7 @@
  * Plugin URI:  http://plugins.apalodi.com/fivo-docs/
  * Description: Advanced document managment plugin that helps you showcase your documents beatifully.
  * Tags:        attachment, documents
- * Version:     1.2.1
+ * Version:     1.2.2
  *
  * Author:      APALODI
  * Author URI:  http://apalodi.com
@@ -16,7 +16,7 @@
  * License URI: https://codecanyon.net/licenses
  *
  * @package     Fivo_Docs
- * @version     1.2.1
+ * @version     1.2.2
  * @author      apalodi
  */
 
@@ -35,7 +35,7 @@ final class Fivo_Docs {
      * @var     string
      * @access  public
      */
-    public $version = '1.2.1';
+    public $version = '1.2.2';
 
     /**
      * The single instance of the class.
